@@ -8,6 +8,8 @@ Right now there is only a pre-payment option aviable, but PayPal as well as othe
 
 If somebody does a booking they get a confirmation Email, as well as you or the assigned contact person gets an information Email, that contains a url to confirm the booking, which will result in another mail to the customer, that gets a final confirmation.
 
+You will need a proper mailserver setup to use the plugin that depends on it to send the confirmation mails.
+
 ## Features in current release v.0.1
 
 - Create Products, with price, description and title
@@ -25,6 +27,7 @@ If somebody does a booking they get a confirmation Email, as well as you or the 
 - Manage bookings and customer in the panel (Edit, create, delete)
 - Manage booking criteria (form-fields) in the panel
 - Capacity planning for services (multiple time ranges and blocked time ranges)
+- Proper error handling of mailserver issues
 
 ## Installation
 
