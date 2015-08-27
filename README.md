@@ -9,6 +9,7 @@ Right now there is only a pre-payment option aviable, but PayPal as well as othe
 If somebody does a booking they get a confirmation Email, as well as you or the assigned contact person gets an information Email, that contains a url to confirm the booking, which will result in another mail to the customer, that gets a final confirmation.
 
 You will need a proper mailserver setup to use the plugin that depends on it to send the confirmation mails.
+For local installation e.g. xampp you can use this guide: http://stackoverflow.com/a/18185233
 
 ## Features in current release v.0.1
 
