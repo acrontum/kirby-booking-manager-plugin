@@ -8,6 +8,24 @@ Right now there is only a pre-payment option aviable, but PayPal as well as othe
 
 If somebody does a booking they get a confirmation Email, as well as you or the assigned contact person gets an information Email, that contains a url to confirm the booking, which will result in another mail to the customer, that gets a final confirmation.
 
+## Features in current release v.0.1
+
+- Create Products, with price, description and title
+- Set a time range for the booking or leave it "unlimited"
+- Set a currency
+- Set a contact mail address, which gets all the bookings
+- Get bookings via a booking form
+- Enter the confirmation and success text for the customer in the panel
+- You get an eMail with the booking and a url to confirm it
+- After the confirmation, the customer gets another final confirmation
+
+## Planned Features for future Versions
+
+- Pay the booking directly using PayPal and other payment services
+- Manage bookings and customer in the panel (Edit, create, delete)
+- Manage booking criteria (form-fields) in the panel
+- Capacity planning for services (multiple time ranges and blocked time ranges)
+
 ## Installation
 
 1. Put the `bookingManager` directory to `site/plugins`.
