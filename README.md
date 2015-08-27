@@ -19,7 +19,7 @@ If somebody does a booking they get a confirmation Email, as well as you or the 
 - You get an eMail with the booking and a url to confirm it
 - After the confirmation, the customer gets another final confirmation
 
-## Planned Features for future Versions
+## Planned features for future Versions
 
 - Pay the booking directly using PayPal and other payment services
 - Manage bookings and customer in the panel (Edit, create, delete)
