@@ -1,0 +1,84 @@
+.booking-manager label{
+	width: 100%;
+	font-size: 1.25em;
+    line-height: 1.5em;
+}
+
+.booking-manager input, .booking-manager textarea, .booking-manager select {
+	width: 100%;
+	font-size: 1.25em;
+    line-height: 1.5em;
+    padding: 0.5em;
+}
+
+.booking-manager select {
+	height: 2.48em;
+}
+
+.booking-manager input[type="submit"] {
+	width: 100%;
+}
+
+.booking-manager .radio input {
+	height: 0.7em;
+	width: auto;
+	margin: 0 0.2em;
+}
+
+.booking-manager textarea{
+	border: 2px solid #ddd;
+	margin: 0.5em 0;
+}
+.booking-manager .form-group{
+	clear: both;
+	overflow:hidden;
+	border-bottom: 2px solid #ddd;
+}
+
+.message {
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+
+.message-success {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+
+.message-error {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+}
+
+.message > p,
+.message > ul {
+  margin-bottom: 0;
+}
+.message > p + p {
+  margin-top: 5px;
+}
+
+
+@media (min-width: 768px) { 
+	.booking-manager .radio input {
+		height: 1.25em;
+		width: 50%;
+		margin-right: 0;
+	}
+
+	.booking-manager label{
+		width: 50%;
+		float: left;
+	    padding: 0.5em 0;
+	}
+
+	.booking-manager input, .booking-manager textarea, .booking-manager select {
+		width: 50%;
+		float: right;
+	    padding: 0.5em;
+	}
+}

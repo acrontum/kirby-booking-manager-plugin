@@ -1,0 +1,53 @@
+Title: Booking Manager
+
+----
+
+Products: 
+
+- 
+  title: Melon Juice
+  description: Sippy stuff to drink well
+  price: 41
+  booking_frame: true
+  booking_start: 2015-08-20
+  booking_end: 2015-09-24
+- 
+  title: Cold Turkey Breast
+  description: Iced Turkey to lick in summertime
+  price: 46
+  booking_start: 2015-08-19
+  booking_end: 2015-09-19
+
+----
+
+Confirmationtext: 
+
+**Booking Manager Request**
+
+Name:	##firstname## ##name##	
+Straße:	##street##
+Stadt:	##zip## ##city##
+E-Mail:	##email##
+Telefon:	##tel##
+Datum:	##date##
+Nachricht:	##message##
+
+----
+
+Successtext: Your Order would be permitted
+
+----
+
+Bookingmail: support@acrontum.de
+
+----
+
+Paymentmethods: prepay
+
+----
+
+Currency: $
+
+----
+
+Bookingdescription: 
