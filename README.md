@@ -34,7 +34,7 @@ For local installation e.g. xampp you can use this guide: http://stackoverflow.c
 
 1. Put the `bookingManager` directory to `site/plugins`.
 
-2. Put the `bookingManager_bookingForm.php` snippet in `snippets`.
+2. Put the `bookingManager_bookingForm.php` and the `sendBookingMail.php` snippet in `snippets`.
 
 3. Put the `assets/css/`-files to `assets/css`.
 
