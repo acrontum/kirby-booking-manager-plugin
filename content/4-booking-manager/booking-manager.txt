@@ -17,18 +17,6 @@ Products:
   price: 46
   booking_start: 2015-08-19
   booking_end: 2015-09-19
-- 
-  title: ihrngjei
-  description: asdfgadh
-  price: 87
-  booking_start:
-  booking_end:
-- 
-  title: New Title
-  description: new
-  price: 123
-  booking_start:
-  booking_end:
 
 ----
 
