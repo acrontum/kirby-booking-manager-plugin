@@ -1,5 +1,7 @@
 # kirby-booking-manager-plugin
 
+Version 1.0.1
+
 A plugin for the [Kirby 2 CMS System](http://getkirby.com) to recieve and manage bookings.
 
 It could be used for hotel room bookings or restauraunt reservations as well as any other, time-related service.
@@ -11,7 +13,7 @@ If somebody does a booking they get a confirmation Email, as well as you or the 
 You will need a proper mailserver setup to use the plugin that depends on it to send the confirmation mails.
 For local installation e.g. xampp you can use this guide: http://stackoverflow.com/a/18185233
 
-## Features in current release v.0.1
+## Features in current release v.1.0.1
 
 - Create Products, with price, description and title
 - Set a time range for the booking or leave it "unlimited"
@@ -34,7 +36,7 @@ For local installation e.g. xampp you can use this guide: http://stackoverflow.c
 
 1. Put the `bookingManager` directory to `site/plugins`.
 
-2. Put the `bookingManager_bookingForm.php` snippet in `snippets`.
+2. Put the `bookingManager_bookingForm.php` and the `sendBookingMail.php` snippet in `snippets`.
 
 3. Put the `assets/css/`-files to `assets/css`.
 

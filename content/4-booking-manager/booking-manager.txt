@@ -18,7 +18,6 @@ Products:
   booking_start: 2015-08-19
   booking_end: 2015-09-19
 
-
 ----
 
 Confirmationtext: 
@@ -39,7 +38,7 @@ Successtext: Your Order would be permitted
 
 ----
 
-Bookingmail: test@localhost
+Bookingmail: support@acrontum.de
 
 ----
 
